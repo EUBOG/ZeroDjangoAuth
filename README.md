@@ -1,0 +1,2 @@
+# ZeroDjangoAuth
+ZeroDjangoAuth - учебный проект.
